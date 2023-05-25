@@ -1,0 +1,84 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.nav-bar-height {
+    height: 4.5rem !important;
+    flex-wrap: nowrap !important;
+    width: 60% !important;
+}
+
+.card-bodyy {
+    text-decoration: none !important;
+}
+
+.card-img-1 {
+    width: 100% !important;
+}
+
+.card-img-2 {
+    width: 100% !important;
+}
+
+.hr {
+    position: absolute;
+    top: 102rem;
+    width: 38rem !important;
+    rotate: 90deg;
+}
+
+.section-one-styling {
+    height: max(50rem);
+}
+
+.pwr-m2-card {
+    height: max(19.8rem);
+}
+
+
+.secure-online-style {
+    height: max(28rem);
+}
+
+.secure-online-items {
+    width: max(50rem);
+}
+
+.footer-container {
+    height: 25rem;
+}
+
+.footer-ul {
+    margin-bottom: 1rem !important;
+}
+
+.footer-ul,
+li {
+    cursor: pointer;
+    text-align: center;
+    list-style-type: none;
+    font-weight: 600;
+}
+
+.footer-ul,
+img {
+    cursor: pointer;
+}
+
+
+
+/* =============================== */
+
+
+.zoom-in-out-box:hover {
+    padding: 0.4rem 0.5rem;
+    border-radius: 50px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.233);
+    border: 1px solid rgba(0, 0, 0, 0.151) !important;
+}
+
+
+.pwr-m2-card:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 9px 1px rgba(0, 0, 0, 0.233);
+}
